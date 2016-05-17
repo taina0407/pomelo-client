@@ -1,0 +1,24 @@
+{
+  "name": "pomelo-client",
+  "main": "pomelo-client.js",
+  "authors": [
+    "Tai NA <taina0407@gmail.com>"
+  ],
+  "description": "poemlo-client",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "pomelo",
+    "client"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
